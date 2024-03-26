@@ -1,0 +1,14 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs",
+    "description": "A simple software to listen and share music."
+  },
+  "header": {
+    "home": "Home",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "manage": "Manage"
+  }
+}

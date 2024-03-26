@@ -1,0 +1,14 @@
+{
+  "home": {
+    "listen": "Escute Boas Músicas",
+    "songs": "Músicas",
+    "description": "Um simples software para ouvir e compartilhar música com seus amigos."
+  },
+  "header": {
+    "about": "Sobre",
+    "login": "Entrar",
+    "register": "Registrar",
+    "logout": "Sair",
+    "manage": "Gerenciar"
+  }
+}
