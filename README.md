@@ -26,6 +26,8 @@ Tailwind CSS: Framework de CSS utilitário altamente personalizável para criaç
 
 Howler.js: Biblioteca JavaScript para reprodução de áudio no navegador.
 
+Vue - i18n: Para traduzir o projeto para várias línguas.
+
 ## Como executar este projeto
 
 git clone https://github.com/arthurhzk/ehya-music.git
